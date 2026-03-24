@@ -10,7 +10,7 @@ An LSTM-based model for recognizing named entities is a type of neural network t
 
 Develop a deep learning model using LSTM to perform Named Entity Recognition (NER) on text data. Preprocess the dataset by tokenizing text and encoding words and labels. Train and evaluate the model to accurately identify entities such as names, locations, and organizations.
 
-![alt text](1-1.jpg)
+<img width="741" height="864" alt="Screenshot 2026-03-24 141206" src="https://github.com/user-attachments/assets/4c56abf4-817b-406c-9212-b7f85dba8e53" />
 
 ## DESIGN STEPS
 
